@@ -1,15 +1,16 @@
 
 # FLAPPY BIRB
 
-This is my version of the famous IPHone game Flappy Bird.
+This is my version of the famous IPhone game Flappy Bird.
 
 
 ## Appendix :: information
-Flappy Birb is an arcade style game which i have programmed using unity and using C# scripting.
+Flappy Birb is a classic arcade style game which i have programmed using unity and using C# scripting.
 It has a personal high score storage system for every device. It has randomised cloud generation , pipe generation, death sound effects, background music etc.
 The space button is used to jump during the game. The R button can be used to restart the game, and space button can also be used to start game or try again 
 when the game over screen or main menu is active. The reset button is used to reset highscore. 
 Mouse clicks can also be used for all the button and also for playing the game.
+
  
 
 
@@ -25,7 +26,7 @@ Mouse clicks can also be used for all the button and also for playing the game.
 
 ## Tech
 
-**- used unity game engine and the unity script which is similar to C#**
+- used unity game engine and the unity script which is similar to C#
 - used Microsoft Visual Studio for programming.
 
 
