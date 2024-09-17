@@ -32,7 +32,7 @@ Mouse clicks can also be used for all the button and also for playing the game.
 
 ## Deployment
 
-- The game has been deployed on the website itch.io
+- The game has been deployed on the website itch.io by using the webgl build feature of unity
 - Click the following link to play the game - https://raj-vardhan06.itch.io/flappy-birb
 
 
